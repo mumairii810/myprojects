@@ -1,0 +1,1 @@
+alert("If you want to visit this site then click Ok")
